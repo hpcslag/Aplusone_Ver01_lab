@@ -9,8 +9,7 @@
     app.js "neo.listen()" is your host port and ip, Example: neo.listen(80,"localhost");
 
 ##Chinese infomation:
-    Server 實作上基本都參考伺服器實戰指南: http://ithelp.ithome.com.tw/event/ironman4/index/personal/type/participant-list/page/1/user/20000108
-    在系統與安全實作上的強化由個人實作!
+    這是一個簡易的檔案伺服器架構的實現
     第二版功能會另行發布，本專案為參考用!
 
 ##Using Module:
