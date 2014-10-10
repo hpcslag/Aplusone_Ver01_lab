@@ -1,0 +1,14 @@
+{
+  "name": "aplusone",
+  "version": "0.0.0",
+  "description": "Quick Build a new Node.js Server, Start in 3min!",
+  "main": "server.js",
+  "repository": "",
+  "author": "MacTaylor <lagbybaha@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "web": "node test/server01.js"
+  }
+}
